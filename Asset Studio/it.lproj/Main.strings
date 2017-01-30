@@ -1,0 +1,97 @@
+
+/* Class = "NSMenuItem"; title = "Asset Maker"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Asset Studio";
+
+/* Class = "NSToolbarItem"; label = "Esporta asset"; ObjectID = "3lL-aY-Wte"; */
+"3lL-aY-Wte.label" = "Esporta asset";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Crea asset"; ObjectID = "3lL-aY-Wte"; */
+"3lL-aY-Wte.paletteLabel" = "Crea asset";
+
+/* Class = "NSMenuItem"; title = "Quit Asset Maker"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Esci da Asset Studio";
+
+/* Class = "NSMenuItem"; title = "About Asset Maker"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "Informazioni su Asset Studio";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Menu principale";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Preferenze…";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Aiuto";
+//
+// Licensed under the Apache License, Version 2.0 (the "License"); you may not
+// use this file except in compliance with the License. You may obtain a copy of
+// the License at http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+// WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+// License for the specific language governing permissions and limitations
+// under the License.
+
+/* Class = "NSMenuItem"; title = "Asset Maker Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Aiuto Asset Studio";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Seleziona immagine"; ObjectID = "GaU-vf-TbV"; */
+"GaU-vf-TbV.paletteLabel" = "Seleziona immagine";
+
+/* Class = "NSWindow"; title = "Asset Maker"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "Asset Studio";
+
+/* Class = "NSMenuItem"; title = "Directory di esportazione"; ObjectID = "KaW-ft-85H"; */
+"KaW-ft-85H.title" = "Directory di esportazione";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Mostra tutto";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Servizi";
+
+/* Class = "NSMenuItem"; title = "Hide Asset Maker"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Nascondi Asset Studio";
+
+/* Class = "NSBox"; title = "Dettagli esportazoine"; ObjectID = "SgR-XM-0Ia"; */
+"SgR-XM-0Ia.title" = "Dettagli esportazione";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Nascondi altre";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Directory di esportazione"; ObjectID = "WbG-eG-mFV"; */
+"WbG-eG-mFV.paletteLabel" = "Directory di esportazione";
+
+/* Class = "NSMenuItem"; title = "Crea asset"; ObjectID = "aTl-1u-JFS"; */
+"aTl-1u-JFS.title" = "Crea asset";
+
+/* Class = "NSTextFieldCell"; title = "Esempio di nome file a @64 retina:"; ObjectID = "aeD-uP-0GV"; */
+"aeD-uP-0GV.title" = "Esempio di nome file:";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "File";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "File";
+
+/* Class = "NSTextFieldCell"; title = "Prefisso nome file:"; ObjectID = "eXN-Zv-iff"; */
+"eXN-Zv-iff.title" = "Prefisso nome file:";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Servizi";
+
+/* Class = "NSTextFieldCell"; placeholderString = "icon"; ObjectID = "mfh-cs-lRx"; */
+"mfh-cs-lRx.placeholderString" = "icona";
+
+/* Class = "NSTextFieldCell"; title = "esempio filename.png"; ObjectID = "q3q-HJ-DeL"; */
+"q3q-HJ-DeL.title" = "basename-XXxN.png";
+
+/* Class = "NSMenuItem"; title = "Seleziona immagine base"; ObjectID = "qIS-W8-SiK"; */
+"qIS-W8-SiK.title" = "Seleziona immagine base";
+
+/* Class = "NSMenu"; title = "Asset Maker"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Asset Studio";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Aiuto";
